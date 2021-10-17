@@ -15,6 +15,9 @@ body {
 .title {
   background: #e3f4ff;
   min-width: 100px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 900;
 }
 div {
   margin-top: 10px;
@@ -22,6 +25,7 @@ div {
   padding: 10px;
 }
 .content {
+  
   background: #e3f4ff;
 }
 
