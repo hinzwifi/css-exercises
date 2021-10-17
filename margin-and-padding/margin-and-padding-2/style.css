@@ -1,18 +1,26 @@
 body {
   background: #eee;
   font-family: sans-serif;
+  
 }
 
 .card {
   width: 400px;
   background: #fff;
   margin: 16px auto;
+  padding: 20px;
+  min-width: 100px;
 }
 
 .title {
   background: #e3f4ff;
+  min-width: 100px;
 }
-
+div {
+  margin-top: 10px;
+  min-width: 100px;
+  padding: 10px;
+}
 .content {
   background: #e3f4ff;
 }
